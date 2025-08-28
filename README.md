@@ -1,5 +1,5 @@
 # N8N-Lead-generation-and-Email-Automation
-
+N8N Lead generation and Email Automation.png
 This workflow automates the complete process of capturing leads, generating personalized outreach emails, and sending them through a professional mailbox. It helps businesses save time, maintain consistency, and improve conversion rates by streamlining lead management and email campaigns.
 
 Key Features:
