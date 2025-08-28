@@ -1,5 +1,5 @@
 # N8N-Lead-generation-and-Email-Automation
-![workflow]([N8N Lead generation and Email Automation.png](https://github.com/Zaid-Codsoft/N8N-Lead-generation-and-Email-Automation/blob/main/N8N%20Lead%20generation%20and%20Email%20Automation.png?raw=true))
+![workflow](https://github.com/Zaid-Codsoft/N8N-Lead-generation-and-Email-Automation/blob/main/N8N%20Lead%20generation%20and%20Email%20Automation.png)
 ![imgg](https://github.com/Zaid-Codsoft/N8N-Lead-generation-and-Email-Automation/blob/main/Screenshot_23-8-2025_233954_127.0.0.1.jpeg)
 This workflow automates the complete process of capturing leads, generating personalized outreach emails, and sending them through a professional mailbox. It helps businesses save time, maintain consistency, and improve conversion rates by streamlining lead management and email campaigns.
 
